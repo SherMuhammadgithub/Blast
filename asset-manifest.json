@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Blast/static/css/main.15a5f3fd.css",
+    "main.js": "/Blast/static/js/main.c1049e31.js",
+    "static/js/963.217d9ba5.chunk.js": "/Blast/static/js/963.217d9ba5.chunk.js",
+    "static/js/413.0650488b.chunk.js": "/Blast/static/js/413.0650488b.chunk.js",
+    "static/js/636.d21cbf35.chunk.js": "/Blast/static/js/636.d21cbf35.chunk.js",
+    "static/js/988.4c853e6f.chunk.js": "/Blast/static/js/988.4c853e6f.chunk.js",
+    "index.html": "/Blast/index.html",
+    "main.15a5f3fd.css.map": "/Blast/static/css/main.15a5f3fd.css.map",
+    "main.c1049e31.js.map": "/Blast/static/js/main.c1049e31.js.map",
+    "963.217d9ba5.chunk.js.map": "/Blast/static/js/963.217d9ba5.chunk.js.map",
+    "413.0650488b.chunk.js.map": "/Blast/static/js/413.0650488b.chunk.js.map",
+    "636.d21cbf35.chunk.js.map": "/Blast/static/js/636.d21cbf35.chunk.js.map",
+    "988.4c853e6f.chunk.js.map": "/Blast/static/js/988.4c853e6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15a5f3fd.css",
+    "static/js/main.c1049e31.js"
+  ]
+}
